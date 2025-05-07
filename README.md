@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/parveenkraina/eShopOnWeb/workflows/dotnet/badge.svg)](https://github.com/dotnet-architecture/eShopOnWeb/actions)
+[![Build Status](https://github.com/parveenkraina/eShopOnWeb/actions/workflows/dotnet.yml/badge.svg)](https://github.com/parveenkraina/eShopOnWeb/actions)
 
 # Microsoft eShopOnWeb ASP.NET Core Reference Application
 
